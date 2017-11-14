@@ -3,7 +3,7 @@
   "description": "Standalone version of Babel-Polyfill built into a single JS file.",
   "version": "7.0.0-alpha.20",
   "main": [
-	"polyfill.js"
+	"babel-polyfill.js"
   ],
   "keywords": [
     "babel",
